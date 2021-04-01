@@ -1,0 +1,263 @@
+StartDate,EndDate,Status,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,DistributionChannel,UserLanguage,Q1,Q2,Q5_1,Q5_2,Q6_1,Q6_2,Q7_1,Q7_2,Q8_1,Q8_2,Q9_1,Q9_2,Q10_1,Q10_2,Q11_1,Q11_2,Q11_3,Q11_4,Q11_5,Q11_6,Q11_7,Q11_8,Q11_9,Q12,Q13,Q14,Q15,Q16,Q17,Q18,Q19,Q20,Q21,Q23,Q24,Q25,Q26,Q27,Q28
+Start Date,End Date,Response Type,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Distribution Channel,User Language,"Welcome - Thank you so much for taking the time to fill in this survey! 
+
+This survey is being undertaken as part of a Masters Thesis at the Technical University of Munich (TUM) School of Management Chair of Corporate Management.  The following questions will help to support this research. Please answer all questions openly and truthfully. The Survey consists of 4 sections and should take about 5 to 10 minutes. Please indicate acceptance of the following consent form.
+
+ 
+
+
+Consent Form
+
+I understand that participation in this study is entirely voluntary and that the information provided by me will be held anonymously, such that my responses cannot be traced back individually or withdrawn when they have been submitted. I understand that the anonymous information may be retained indefinitely.",How familiar are you with Artificial Intelligence (AI)?,"You have inherited 50,000 euro that you want to invest in a managed fund. 
+
+Please rate how acceptable you find each of the following approaches? - An experienced stock broker manages the investment fund.","You have inherited 50,000 euro that you want to invest in a managed fund. 
+
+Please rate how acceptable you find each of the following approaches? - A trading algorithm (artificial intelligence) manages the investment fund.","You have applied for a job at a large international company; the company has received more than 500 applications for the position.
+
+Please rate how acceptable you find each of the following approaches? - The human resources department review and screen the applications to create a short list for further review.","You have applied for a job at a large international company; the company has received more than 500 applications for the position.
+
+Please rate how acceptable you find each of the following approaches? - Artificial intelligence is used to review and screen the applications to create a short list for further review.","A global pandemic has killed millions of people worldwide. After a year a vaccine has become available. A schedule must be made to determine in what order to administer the vaccine to the population.
+Please rate how acceptable you find each of the following approaches to the problem? - Employees at the health department determine the order in which the community is to be vaccinated based on how their assessment of how they can save the highest number of lives.","A global pandemic has killed millions of people worldwide. After a year a vaccine has become available. A schedule must be made to determine in what order to administer the vaccine to the population.
+Please rate how acceptable you find each of the following approaches to the problem? - Artificial intelligence is used to determine the order in which the community is to be vaccinated based on its assessment of how to save the highest number of lives.","A hospital emergency room is overrun during a pandemic and the hospital must decide how to allocate the limited available doctors during the period of excessive demand.
+
+Please rate how acceptable you find each of the following approaches? - An emergency doctor decides who to treat first based on their assessment of how they can save the highest number of lives.","A hospital emergency room is overrun during a pandemic and the hospital must decide how to allocate the limited available doctors during the period of excessive demand.
+
+Please rate how acceptable you find each of the following approaches? - An algorithm decides who to treat first based on its assessment of how the doctors can save the highest number of lives.","Traffic accidents are a major cause of accidental death worldwide.
+
+Please rate how acceptable you find each of the following approaches? - Humans continue to drive themselves.","Traffic accidents are a major cause of accidental death worldwide.
+
+Please rate how acceptable you find each of the following approaches? - Autonomous vehicles (self driving) powered by Artificial Intelligence replace human drivers.","You read the news once a day. You only have a limited amount of time so you can only read a limited number of articles each day.
+
+Please rate how acceptable you find each of the following approaches to the problem? - You read the headlines of the news, in the order presented by the online news platform or in the newspaper and decide which articles to read.","You read the news once a day. You only have a limited amount of time so you can only read a limited number of articles each day.
+
+Please rate how acceptable you find each of the following approaches to the problem? - Artificial intelligence filters the news to find the articles that it determines that you would want to read and provides you this list of news articles.",In the following section you are presented with several different statements. Please indicate to what extent you agree or disagree with it. - I would find the Artificial Intelligence useful for decision making  in my job.,In the following section you are presented with several different statements. Please indicate to what extent you agree or disagree with it. - Using Artificial Intelligence enables humans to make decisions more quickly / better decisions,In the following section you are presented with several different statements. Please indicate to what extent you agree or disagree with it. - My interaction with a system that uses Artificial Intelligence would be clear and understandable.,In the following section you are presented with several different statements. Please indicate to what extent you agree or disagree with it. - Using Artificial Intelligence in decision making is a good idea.,In the following section you are presented with several different statements. Please indicate to what extent you agree or disagree with it. - I feel apprehensive about using Artificial Intelligence in decision making,In the following section you are presented with several different statements. Please indicate to what extent you agree or disagree with it. - Artificial Intelligence is somewhat intimidating to me.,In the following section you are presented with several different statements. Please indicate to what extent you agree or disagree with it. - I intend to use Artificial Intelligence in my work or other applications,In the following section you are presented with several different statements. Please indicate to what extent you agree or disagree with it. - It would be easy for me to become skilful at using / utilizing Artificial Intelligence.,In the following section you are presented with several different statements. Please indicate to what extent you agree or disagree with it. - I would trust the output from Artificial Intelligence,"For the next section, please imagine that you are taking part in a lottery. For each question you will have the choice between two options. 
+The alternatives in the options differ in the amount of profit. In option A the maximum profit is smaller, while the minimum profit is bigger. In option B, it is the opposite: the maximum profit is bigger, while the minimum profit is smaller. 
+Please choose between option A or option B for each of the following. Please be sure to answer all 10 questions.",Please choose between option A or option B,Please choose between option A or option B,Please choose between option A or option B,Please choose between option A or option B,Please choose between option A or option B,Please choose between option A or option B,Please choose between option A or option B,Please choose between option A or option B,Please choose between option A or option B,What is your gender?,What is your age?,List of Countries,What is your highest level of education completed?,Which of the following categories best describes your employment status?,"If you take a look at the total income of all household members: how high is the monthly
+household income today?
+Please choose the area your net monthly household income lies in. Net income means after
+deductions for taxes and social security. Please include regular income such as pensions,
+housing allowance, child allowance, grants for higher education support payments, etc."
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID151""}","{""ImportId"":""QID186""}","{""ImportId"":""QID88_1""}","{""ImportId"":""QID88_2""}","{""ImportId"":""QID82_1""}","{""ImportId"":""QID82_2""}","{""ImportId"":""QID184_1""}","{""ImportId"":""QID184_2""}","{""ImportId"":""QID90_1""}","{""ImportId"":""QID90_2""}","{""ImportId"":""QID190_1""}","{""ImportId"":""QID190_2""}","{""ImportId"":""QID187_1""}","{""ImportId"":""QID187_2""}","{""ImportId"":""QID86_1""}","{""ImportId"":""QID86_2""}","{""ImportId"":""QID86_4""}","{""ImportId"":""QID86_5""}","{""ImportId"":""QID86_6""}","{""ImportId"":""QID86_7""}","{""ImportId"":""QID86_8""}","{""ImportId"":""QID86_9""}","{""ImportId"":""QID86_10""}","{""ImportId"":""QID172""}","{""ImportId"":""QID173""}","{""ImportId"":""QID174""}","{""ImportId"":""QID175""}","{""ImportId"":""QID176""}","{""ImportId"":""QID177""}","{""ImportId"":""QID178""}","{""ImportId"":""QID179""}","{""ImportId"":""QID180""}","{""ImportId"":""QID181""}","{""ImportId"":""QID59""}","{""ImportId"":""QID75""}","{""ImportId"":""QID77""}","{""ImportId"":""QID61""}","{""ImportId"":""QID64""}","{""ImportId"":""QID79""}"
+22/01/2021 10:06,22/01/2021 10:41,0,100,2099,1,22/01/2021 10:41,R_2bUzFJ0GcW6gyan,anonymous,EN,4,4,7,7,6,6,7,7,7,6,3,7,7,3,5,6,5,5,0,3,0,6,5,1,1,1,1,2,2,2,2,2,2,2,2,61,8,4,6
+22/01/2021 10:24,22/01/2021 10:41,0,100,1011,1,22/01/2021 10:41,R_3LdIOXLZyOG5xbY,anonymous,EN,4,4,5,5,7,5,6,5,6,6,5,7,6,6,7,6,6,6,4,5,5,5,5,1,1,1,1,1,1,1,1,2,2,1,3,61,7,1,6
+23/01/2021 11:05,23/01/2021 11:17,0,100,672,1,23/01/2021 11:17,R_el222A3TYUCdUpb,anonymous,EN,4,2,7,6,7,6,7,7,7,6,7,7,7,2,5,6,6,6,4,6,4,2,6,1,1,1,1,1,1,1,1,2,2,2,3,65,7,1,5
+23/01/2021 11:07,23/01/2021 11:21,0,100,843,1,23/01/2021 11:21,R_bfwjQa0Mhz4vIYh,anonymous,EN,4,2,1,4,6,6,4,4,7,1,7,3,6,2,5,4,6,3,4,3,2,6,4,1,1,1,1,1,1,1,1,2,2,2,3,65,8,1,6
+23/01/2021 11:11,23/01/2021 11:21,0,100,642,1,23/01/2021 11:21,R_3Le5zSduuM7JUxI,anonymous,EN,4,2,5,5,6,5,5,6,6,2,6,5,6,6,5,5,5,6,2,3,5,6,6,1,1,1,1,2,2,2,2,2,2,2,3,65,7,1,6
+23/01/2021 11:14,23/01/2021 11:22,0,100,460,1,23/01/2021 11:22,R_1OIEsWw02pCp1fB,anonymous,EN,4,4,7,6,6,4,4,6,7,5,6,7,6,2,4,5,7,6,6,4,6,3,6,2,2,2,2,2,2,2,2,2,2,2,3,65,8,1,6
+23/01/2021 11:09,23/01/2021 11:23,0,100,834,1,23/01/2021 11:23,R_1PR9tmdmivEwLCD,anonymous,EN,4,2,6,6,2,7,6,6,7,2,7,6,6,7,0,4,3,5,3,1,2,3,5,1,1,1,1,1,1,1,2,2,2,2,3,31,7,1,4
+23/01/2021 11:19,23/01/2021 11:27,0,100,476,1,23/01/2021 11:27,R_zVECqXPMZUd38yt,anonymous,EN,4,2,4,4,7,4,5,5,7,1,7,7,7,1,3,2,0,4,0,0,2,5,0,2,1,1,1,1,1,2,2,2,2,2,3,65,8,1,3
+23/01/2021 11:21,23/01/2021 11:34,0,100,783,1,23/01/2021 11:34,R_1NEL85sidTYbwTx,anonymous,EN,4,2,6,6,3,7,7,7,7,5,4,2,7,7,6,7,6,6,2,1,7,0,6,2,2,2,2,2,2,2,2,2,2,2,2,65,7,1,6
+23/01/2021 11:32,23/01/2021 11:45,0,100,743,1,23/01/2021 11:45,R_1mfqoTkyMLOvxLX,anonymous,EN,4,2,5,6,6,7,4,6,7,1,2,7,7,1,6,6,6,7,1,2,6,5,6,1,1,1,1,1,2,2,2,1,2,1,6,65,7,5,5
+23/01/2021 11:41,23/01/2021 11:53,0,100,691,1,23/01/2021 11:53,R_1DHGAzToivNbQL0,anonymous,EN,4,4,5,5,6,6,6,6,6,2,7,6,7,3,5,6,6,6,4,6,6,7,5,1,1,1,1,1,1,1,2,2,2,2,3,65,8,1,6
+23/01/2021 11:43,23/01/2021 12:00,0,100,1005,1,23/01/2021 12:00,R_xEoRUUfzSQyGKCR,anonymous,EN,4,2,4,6,7,2,7,6,6,3,6,5,6,6,6,6,4,4,3,3,6,4,4,1,1,1,1,1,1,1,2,2,2,1,3,65,8,1,6
+23/01/2021 12:05,23/01/2021 12:14,0,100,571,1,23/01/2021 12:14,R_YPQ1EPXbZup8akx,anonymous,EN,4,4,5,5,3,6,6,6,6,3,7,6,6,2,5,6,3,7,5,2,7,3,5,1,1,1,1,2,2,2,2,2,2,2,3,65,8,1,5
+23/01/2021 12:09,23/01/2021 12:15,0,100,354,1,23/01/2021 12:15,R_2YCVDbpFCL1yWGI,anonymous,EN,4,4,5,6,6,7,5,6,2,6,2,7,5,3,7,6,2,7,2,2,7,6,5,2,2,2,2,2,2,2,2,2,2,2,3,169,7,1,6
+23/01/2021 12:05,23/01/2021 12:16,0,100,650,1,23/01/2021 12:16,R_SQ6p1mU9l4uKnL3,anonymous,EN,4,2,6,5,7,5,6,2,5,2,6,5,6,6,2,3,4,0,3,2,0,5,5,1,1,1,1,1,1,2,2,2,2,2,3,95,8,1,3
+23/01/2021 12:08,23/01/2021 12:20,0,100,734,1,23/01/2021 12:20,R_2Xoo628fJX0og1x,anonymous,EN,4,2,6,6,6,6,6,6,7,6,3,7,6,5,6,6,3,6,3,2,6,5,5,1,1,1,1,1,1,1,2,2,2,1,3,65,6,2,6
+23/01/2021 12:21,23/01/2021 12:38,0,100,1029,1,23/01/2021 12:38,R_3G9vrMfxjCEEUyF,anonymous,EN,4,4,6,5,6,2,4,4,2,5,6,6,6,1,4,7,5,5,2,4,4,6,5,1,1,1,1,1,1,1,1,1,2,2,4,65,7,2,5
+23/01/2021 12:45,23/01/2021 12:55,0,100,557,1,23/01/2021 12:55,R_3MmxN3mWFDejRPn,anonymous,EN,4,2,5,6,4,4,2,7,3,6,4,6,2,2,6,7,6,6,4,4,6,4,6,1,1,1,1,1,1,1,1,2,2,2,3,65,7,1,5
+23/01/2021 12:56,23/01/2021 13:10,0,100,823,1,23/01/2021 13:10,R_1E5vDvXCQJB6HnC,anonymous,EN,4,2,6,6,7,5,6,7,7,3,6,6,6,7,4,6,6,6,4,3,4,4,6,1,1,1,2,2,2,2,2,2,2,2,3,65,7,1,5
+23/01/2021 13:12,23/01/2021 13:21,0,100,545,1,23/01/2021 13:21,R_2SeiVityDxRnAyH,anonymous,EN,4,5,6,2,6,2,6,5,6,5,6,3,7,2,4,5,5,5,6,4,4,5,5,1,1,1,1,1,1,1,1,2,2,1,4,9,6,2,5
+23/01/2021 12:23,23/01/2021 13:38,0,100,4490,1,23/01/2021 13:38,R_3MLp192OG9ZoGwl,anonymous,EN,4,4,5,5,2,6,7,2,5,4,5,4,3,7,3,4,0,4,3,3,4,2,5,1,1,1,1,1,1,1,1,1,2,2,4,65,4,1,5
+23/01/2021 13:38,23/01/2021 13:52,0,100,818,1,23/01/2021 13:52,R_32JzsfnOESJcG5t,anonymous,EN,4,2,6,6,7,7,6,7,7,7,7,5,7,6,7,6,0,6,2,3,6,6,6,2,2,2,2,2,2,2,2,2,2,2,3,9,6,1,6
+23/01/2021 13:46,23/01/2021 13:54,0,100,454,1,23/01/2021 13:54,R_Ra7r5edVm0bgPLj,anonymous,EN,4,4,7,6,7,5,6,6,6,6,6,7,7,5,6,7,5,6,2,3,6,6,6,1,1,1,2,2,2,2,2,2,2,2,3,9,7,1,6
+23/01/2021 13:54,23/01/2021 14:09,0,100,876,1,23/01/2021 14:09,R_eh7muPhXhxBbL4B,anonymous,EN,4,4,5,6,7,5,6,6,7,6,6,4,7,2,5,6,6,5,2,3,6,2,5,1,1,1,1,1,2,2,2,2,2,2,3,65,7,1,6
+23/01/2021 14:05,23/01/2021 14:22,0,100,1035,1,23/01/2021 14:22,R_Zgzd09fCzfufAvn,anonymous,EN,4,2,5,6,7,2,6,5,6,3,6,4,6,6,2,5,4,5,4,4,3,3,3,1,1,1,1,2,2,2,2,2,2,2,3,65,7,1,5
+23/01/2021 14:15,23/01/2021 14:27,0,100,752,1,23/01/2021 14:27,R_1pSEfpHzgNaguyI,anonymous,EN,4,4,6,4,6,2,7,5,6,6,4,6,7,1,4,5,4,5,1,2,4,3,2,1,1,1,1,1,1,1,2,2,2,1,3,9,5,2,6
+23/01/2021 14:11,23/01/2021 14:30,0,100,1148,1,23/01/2021 14:30,R_89e5WeJdk3MuEvv,anonymous,EN,4,5,3,5,2,6,2,6,5,6,2,7,4,5,7,7,4,6,3,4,6,5,6,1,1,1,1,2,2,2,2,2,2,1,2,101,6,1,5
+23/01/2021 14:37,23/01/2021 14:46,0,100,548,1,23/01/2021 14:46,R_2WGemYEjmiCxwi1,anonymous,EN,4,2,7,5,7,2,7,5,6,6,6,6,7,1,5,5,0,3,6,3,2,0,3,1,1,1,1,1,1,1,2,2,2,2,3,65,7,4,4
+23/01/2021 14:41,23/01/2021 14:51,0,100,636,1,23/01/2021 14:51,R_29hISOwIBoSESna,anonymous,EN,4,4,6,3,7,7,5,3,5,5,6,5,7,7,7,6,6,6,2,3,7,6,3,2,2,2,2,2,2,2,2,2,2,2,3,65,7,3,4
+23/01/2021 14:48,23/01/2021 14:55,0,100,443,1,23/01/2021 14:55,R_RVbgkG6zl0dlIo9,anonymous,EN,4,2,6,6,6,5,7,4,7,5,6,7,6,6,7,6,4,5,4,3,4,4,5,1,1,1,2,2,2,2,2,2,2,1,3,9,5,1,3
+23/01/2021 14:48,23/01/2021 14:56,0,100,487,1,23/01/2021 14:56,R_12ukOkWo35EkGC0,anonymous,EN,4,5,7,7,7,7,7,7,7,7,5,7,7,5,7,7,7,7,7,7,7,7,7,1,1,1,1,1,1,1,2,2,2,1,3,9,5,1,4
+23/01/2021 14:53,23/01/2021 15:01,0,100,487,1,23/01/2021 15:01,R_1pQdBe1iQ0yBGEW,anonymous,EN,4,4,6,6,4,7,5,6,6,5,7,7,7,7,7,5,4,5,6,6,6,6,6,1,1,1,2,2,2,2,2,2,2,1,2,65,4,4,4
+23/01/2021 14:59,23/01/2021 15:07,0,100,488,1,23/01/2021 15:07,R_3MldsNbkG9AYD8R,anonymous,EN,4,2,6,6,7,3,7,5,7,5,7,5,5,7,6,7,6,7,6,6,7,7,6,1,1,1,1,2,2,2,2,2,2,2,3,185,6,1,6
+23/01/2021 14:58,23/01/2021 15:14,0,100,955,1,23/01/2021 15:14,R_27PBWxJUHzskPXt,anonymous,EN,4,5,7,7,7,7,7,6,7,6,7,7,5,6,6,7,4,6,4,6,6,3,6,1,1,1,1,1,2,2,2,2,2,1,4,9,7,1,6
+23/01/2021 15:11,23/01/2021 15:25,0,100,827,1,23/01/2021 15:25,R_2tDMHd08rQpyL1q,anonymous,EN,4,2,7,2,7,6,7,2,7,4,7,4,7,5,3,5,4,5,3,6,3,4,3,2,2,2,2,2,2,2,2,2,2,1,4,9,6,1,4
+23/01/2021 15:25,23/01/2021 15:34,0,100,500,1,23/01/2021 15:34,R_6fIWHUKJYjJLUNX,anonymous,EN,4,2,6,5,6,4,3,5,7,6,6,6,7,1,2,6,6,5,2,2,3,5,5,1,1,1,1,1,2,2,2,2,2,4,3,9,7,1,6
+23/01/2021 15:25,23/01/2021 15:34,0,100,549,1,23/01/2021 15:34,R_26kDOEth08Of5Pt,anonymous,EN,4,2,6,6,6,7,6,7,5,5,6,6,6,6,6,5,7,5,4,3,5,6,5,1,1,1,1,1,1,2,2,2,2,2,2,65,4,4,1
+23/01/2021 15:30,23/01/2021 15:39,0,100,537,1,23/01/2021 15:39,R_sbrYPMdglwKQzGV,anonymous,EN,4,4,7,5,6,5,6,7,7,6,6,6,7,2,6,6,6,6,4,5,6,5,5,1,1,1,1,1,1,2,2,2,2,2,3,65,8,3,3
+23/01/2021 15:39,23/01/2021 15:48,0,100,563,1,23/01/2021 15:48,R_333eKPh4U3slHKP,anonymous,EN,4,2,7,7,7,7,7,7,7,7,5,6,7,3,0,5,5,5,1,1,4,6,5,1,1,1,1,1,2,2,2,2,2,2,3,9,7,2,6
+23/01/2021 16:26,23/01/2021 16:41,0,100,868,1,23/01/2021 16:41,R_3e2Inu2dUaMQbuv,anonymous,EN,4,2,5,2,6,3,6,5,6,5,6,5,7,6,2,3,2,2,2,1,2,1,2,1,1,2,1,1,1,1,2,2,2,2,6,9,7,5,3
+23/01/2021 16:57,23/01/2021 17:06,0,100,581,1,23/01/2021 17:06,R_2QtftNmIg56iDdb,anonymous,EN,4,4,6,5,7,4,6,7,6,5,7,3,6,2,3,3,2,2,2,2,3,3,3,1,1,1,1,1,2,2,2,2,2,2,2,187,7,1,2
+23/01/2021 15:15,23/01/2021 17:28,0,100,7972,1,23/01/2021 17:28,R_3EKoeqTBmHs9VXH,anonymous,EN,4,4,7,5,5,4,6,5,5,5,5,6,5,4,5,6,5,5,5,5,5,4,5,1,1,1,1,2,1,2,2,1,2,2,3,9,7,1,5
+23/01/2021 14:29,23/01/2021 17:51,0,100,12172,1,23/01/2021 17:51,R_1hL26Q2X7XJGsuY,anonymous,EN,4,2,7,7,7,4,5,6,7,5,6,7,5,6,4,5,5,6,3,3,2,4,5,1,1,2,2,2,2,2,2,2,2,1,2,9,6,1,6
+23/01/2021 18:08,23/01/2021 18:15,0,100,436,1,23/01/2021 18:15,R_21FoaXOZAX5lM2P,anonymous,EN,4,2,5,4,6,5,6,6,6,6,4,6,6,2,3,5,3,5,5,5,2,3,3,1,1,1,1,2,2,2,2,2,2,1,3,9,6,1,6
+23/01/2021 18:30,23/01/2021 18:40,0,100,629,1,23/01/2021 18:40,R_2bO9BkMP4dy7cD7,anonymous,EN,4,4,4,5,3,6,1,1,6,5,3,5,3,2,6,6,5,5,4,6,4,6,4,1,1,1,1,2,2,1,2,2,2,2,2,10,6,4,1
+23/01/2021 18:51,23/01/2021 19:01,0,100,589,1,23/01/2021 19:01,R_SBsCgnTjPLv9i8N,anonymous,EN,4,4,6,6,6,6,6,6,6,6,6,7,5,6,4,6,6,7,5,4,6,6,6,1,1,1,1,1,1,1,1,1,2,1,3,9,6,2,6
+23/01/2021 19:10,23/01/2021 19:18,0,100,481,1,23/01/2021 19:18,R_xoAz1v9mSBaUq5j,anonymous,EN,4,2,6,4,7,6,7,5,3,2,6,4,6,5,2,5,3,4,6,3,3,6,6,1,1,1,1,2,1,2,2,2,2,2,3,9,6,2,4
+23/01/2021 19:57,23/01/2021 20:11,0,100,866,1,23/01/2021 20:11,R_27WmFAjUXFkyNpx,anonymous,EN,4,2,6,3,7,5,7,5,7,2,7,3,6,3,2,5,3,3,2,2,2,3,3,1,1,1,2,2,2,2,2,2,2,2,3,9,6,1,4
+23/01/2021 20:04,23/01/2021 20:28,0,100,1426,1,23/01/2021 20:28,R_1k1cKvKGpSLehwa,anonymous,EN,4,2,7,4,7,5,6,6,7,5,6,4,7,2,4,0,0,0,2,4,1,2,4,1,1,1,1,1,1,2,2,2,2,2,6,9,6,5,3
+23/01/2021 20:47,23/01/2021 20:57,0,100,576,1,23/01/2021 20:57,R_2tbzfK10z5lH0Hw,anonymous,EN,4,5,6,6,6,6,4,4,6,6,6,6,4,4,2,6,6,6,6,5,6,6,5,1,1,1,2,1,2,2,2,2,2,2,3,9,6,1,6
+23/01/2021 21:53,23/01/2021 21:58,0,100,326,1,23/01/2021 21:58,R_2SADFflGI2Alu0J,anonymous,EN,4,2,5,5,6,6,6,7,3,7,7,3,6,3,0,4,3,4,0,3,2,4,3,1,1,1,1,2,2,2,2,2,2,2,2,65,7,1,4
+24/01/2021 0:34,24/01/2021 0:41,0,100,420,1,24/01/2021 0:41,R_1Ag9k9UxUPa1v57,anonymous,EN,4,4,6,6,7,4,6,6,7,3,6,6,7,5,6,6,6,6,5,3,6,4,6,1,1,1,1,2,2,2,2,2,2,2,3,9,6,1,6
+24/01/2021 1:06,24/01/2021 1:18,0,100,747,1,24/01/2021 1:18,R_1ojvuM3TLEZctHJ,anonymous,EN,4,4,7,5,4,6,6,6,6,4,4,6,6,3,4,5,6,5,3,3,4,5,4,1,1,1,2,2,2,2,2,2,2,2,3,65,7,1,6
+24/01/2021 1:16,24/01/2021 1:24,0,100,445,1,24/01/2021 1:24,R_2pKwDxlJVNmmXf6,anonymous,EN,4,4,5,5,5,6,6,5,5,6,6,7,5,7,2,7,4,6,5,4,4,5,6,1,1,1,1,2,1,1,1,2,2,1,3,9,6,1,6
+23/01/2021 23:32,24/01/2021 1:33,0,100,7239,1,24/01/2021 1:33,R_z2LiIRctQUoSvHX,anonymous,EN,4,2,6,5,6,3,6,6,6,3,6,2,6,5,6,6,4,6,6,5,4,6,4,1,1,1,1,1,1,1,1,1,2,1,3,9,7,2,6
+24/01/2021 1:41,24/01/2021 1:53,0,100,719,1,24/01/2021 1:53,R_334mmdcSXiOlQlU,anonymous,EN,4,4,6,7,6,5,5,3,5,5,6,6,6,6,6,4,6,6,6,3,4,5,5,1,1,1,1,2,2,2,2,2,2,2,2,65,6,4,6
+24/01/2021 1:36,24/01/2021 2:01,0,100,1464,1,24/01/2021 2:01,R_2DNYfjAwgJoy5Im,anonymous,EN,4,4,6,3,3,6,2,6,6,3,6,2,7,1,5,6,6,6,6,3,6,0,3,2,2,2,2,2,2,2,2,2,2,2,6,168,6,5,4
+24/01/2021 2:05,24/01/2021 2:13,0,100,484,1,24/01/2021 2:13,R_3qsyx2n5l9qIegu,anonymous,EN,4,4,5,4,6,2,1,1,4,1,7,5,4,2,1,7,5,5,5,5,2,4,5,1,1,1,1,2,2,2,2,2,2,1,3,9,6,1,6
+24/01/2021 3:26,24/01/2021 3:40,0,100,866,1,24/01/2021 3:40,R_2uZZGPQArY6ra4d,anonymous,EN,4,2,7,7,7,7,7,7,7,7,7,5,5,5,2,6,6,5,5,3,6,6,5,1,1,1,1,1,1,1,1,2,2,1,3,9,7,1,3
+24/01/2021 3:32,24/01/2021 3:42,0,100,614,1,24/01/2021 3:42,R_2QzUgZ1B6mMBxba,anonymous,EN,4,2,7,5,6,5,5,5,7,2,5,6,5,2,5,5,5,7,0,3,7,7,5,1,1,1,1,2,2,2,2,2,2,2,2,65,5,4,5
+24/01/2021 3:43,24/01/2021 3:50,0,100,445,1,24/01/2021 3:50,R_BG54gFq1TAvlMUp,anonymous,EN,4,4,6,5,7,1,6,5,6,5,6,6,6,2,5,5,3,5,3,3,6,7,3,1,1,1,1,1,1,1,2,2,2,1,4,65,7,1,6
+24/01/2021 3:44,24/01/2021 3:53,0,100,512,1,24/01/2021 3:53,R_1LInrprp2LhJZXo,anonymous,EN,4,2,7,5,7,1,6,1,7,1,6,5,7,2,1,3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,2,2,2,2,3,9,4,1,6
+24/01/2021 3:47,24/01/2021 3:53,0,100,342,1,24/01/2021 3:53,R_1GPnZI1w9bYy8FB,anonymous,EN,4,4,5,6,7,1,7,4,7,2,7,4,7,1,6,5,6,5,4,4,5,5,5,1,1,1,1,1,1,1,2,2,2,1,4,9,6,1,6
+24/01/2021 4:26,24/01/2021 4:37,0,100,653,1,24/01/2021 4:37,R_Rae0dZ0Cg0AqEi5,anonymous,EN,4,4,3,1,5,2,7,3,7,3,4,2,6,3,5,5,5,5,3,3,7,5,3,2,2,2,2,1,1,1,1,2,2,2,3,65,7,1,4
+24/01/2021 4:36,24/01/2021 4:43,0,100,412,1,24/01/2021 4:43,R_08H17JVrdjLVkiZ,anonymous,EN,4,4,6,4,6,2,6,5,6,4,6,6,6,6,5,5,5,5,4,3,5,5,5,1,1,1,1,2,2,2,2,2,2,1,2,9,6,1,6
+24/01/2021 4:59,24/01/2021 5:05,0,100,379,1,24/01/2021 5:05,R_ZEuJvT7vLEkBweR,anonymous,EN,4,4,6,5,7,5,6,5,7,3,6,6,6,5,1,5,3,5,1,0,2,4,3,1,1,1,1,2,2,2,2,2,2,1,3,185,6,2,6
+24/01/2021 5:16,24/01/2021 5:23,0,100,421,1,24/01/2021 5:23,R_2aqqIHpAth7dEU0,anonymous,EN,4,2,6,6,6,6,6,7,6,5,5,7,5,5,0,6,0,6,5,2,2,3,6,1,1,2,2,2,2,2,2,2,2,2,4,65,6,5,6
+24/01/2021 5:31,24/01/2021 5:38,0,100,413,1,24/01/2021 5:38,R_0rDeBrd53ZypSHT,anonymous,EN,4,2,6,5,4,5,6,6,5,3,4,7,4,3,5,5,4,5,4,3,4,5,6,1,1,1,2,1,2,2,1,1,1,1,2,187,6,1,6
+24/01/2021 6:01,24/01/2021 6:17,0,100,935,1,24/01/2021 6:17,R_29Wp7XMaQlhJpFn,anonymous,EN,4,4,7,5,6,6,6,5,6,5,6,5,6,6,2,5,7,5,4,6,3,3,4,1,1,1,1,1,1,1,2,2,2,1,5,9,4,1,3
+24/01/2021 6:09,24/01/2021 6:20,0,100,624,1,24/01/2021 6:20,R_1MQJL76RJ6zVTjM,anonymous,EN,4,4,5,5,3,7,7,2,7,2,7,6,7,7,7,7,7,7,6,6,7,7,7,1,1,1,1,2,2,2,2,2,2,1,2,31,7,1,6
+24/01/2021 6:25,24/01/2021 6:30,0,100,261,1,24/01/2021 6:30,R_3h0wFQk2dER1F3n,anonymous,EN,4,4,7,4,5,3,4,4,4,4,7,6,7,2,5,5,4,4,3,6,4,6,3,1,1,1,1,1,1,1,2,2,2,1,3,9,7,1,6
+24/01/2021 6:37,24/01/2021 6:41,0,100,222,1,24/01/2021 6:41,R_1dtvWaQJWfo9TGh,anonymous,EN,4,4,7,5,7,2,6,7,7,5,5,5,5,3,4,3,2,6,1,0,7,2,5,2,2,2,2,1,1,1,1,2,2,1,2,65,7,4,1
+24/01/2021 6:36,24/01/2021 6:47,0,100,652,1,24/01/2021 6:47,R_1hGSGcAlLb3aPMI,anonymous,EN,4,4,6,6,6,3,4,6,4,6,4,6,3,7,6,6,4,6,2,3,6,6,6,1,1,1,1,2,2,2,2,2,2,2,2,65,6,4,1
+24/01/2021 6:59,24/01/2021 7:17,0,100,1076,1,24/01/2021 7:17,R_2rqlkb96RIKiS6B,anonymous,EN,4,2,4,4,4,4,6,5,4,4,5,5,4,4,4,4,4,4,4,4,4,4,0,1,1,1,1,1,1,1,1,1,1,2,3,65,5,2,5
+24/01/2021 6:57,24/01/2021 7:35,0,100,2316,1,24/01/2021 7:35,R_2qeEwFru1PCSJM9,anonymous,EN,4,2,4,4,4,2,4,1,6,1,6,5,6,1,4,2,4,2,6,2,5,2,2,2,2,2,1,1,1,1,1,1,2,1,4,65,7,1,4
+24/01/2021 8:21,24/01/2021 8:26,0,100,298,1,24/01/2021 8:26,R_3kNyvHKxKpUaaOB,anonymous,EN,4,2,5,4,6,5,5,5,5,5,5,4,6,7,6,7,7,7,2,4,6,6,6,1,1,1,2,2,2,2,2,2,2,1,3,185,6,1,6
+24/01/2021 8:32,24/01/2021 8:37,0,100,307,1,24/01/2021 8:37,R_3j1h33xwULWCQfs,anonymous,EN,4,5,6,5,6,5,6,4,6,4,7,6,7,7,7,7,6,6,3,4,6,7,5,2,2,2,2,2,1,2,2,2,2,1,2,65,7,4,1
+24/01/2021 8:45,24/01/2021 8:53,0,100,512,1,24/01/2021 8:53,R_0AstWY87kquGCxb,anonymous,EN,4,2,6,4,6,3,5,6,6,4,7,2,6,4,4,4,5,5,3,4,3,5,5,1,1,1,2,2,2,2,2,2,2,2,2,31,6,1,6
+24/01/2021 9:12,24/01/2021 9:27,0,100,942,1,24/01/2021 9:27,R_tR1DM52Jm8zqbRf,anonymous,EN,4,4,4,5,6,7,6,4,4,5,4,5,7,1,4,5,5,4,3,3,3,2,4,1,1,1,1,1,2,2,2,2,2,2,2,65,7,4,2
+24/01/2021 9:21,24/01/2021 9:31,0,100,553,1,24/01/2021 9:31,R_1Fy7mlDrTxhI9rk,anonymous,EN,4,2,6,5,7,3,7,7,7,4,4,5,4,6,6,6,3,6,4,2,5,6,5,2,2,2,1,1,2,2,2,2,2,2,3,65,4,1,3
+24/01/2021 9:24,24/01/2021 9:34,0,100,570,1,24/01/2021 9:34,R_C7zmwU0WvYVKN1f,anonymous,EN,4,4,4,6,7,2,2,7,4,5,6,7,5,7,6,7,7,7,6,6,7,0,5,1,1,1,1,1,2,2,2,2,2,2,3,65,7,2,3
+24/01/2021 10:21,24/01/2021 10:30,0,100,539,1,24/01/2021 10:30,R_1g0EoV04d3okQZz,anonymous,EN,4,2,6,5,7,5,6,2,7,2,6,4,7,5,2,5,3,3,1,1,1,1,3,1,1,1,1,1,1,1,1,2,2,2,3,31,8,1,4
+24/01/2021 10:39,24/01/2021 10:59,0,100,1210,1,24/01/2021 10:59,R_1LjnN5N4jOZnocl,anonymous,EN,4,2,5,6,6,6,7,4,6,5,7,2,7,4,4,6,4,5,4,2,4,7,6,2,2,1,1,1,1,2,2,1,1,2,3,187,7,1,5
+24/01/2021 11:25,24/01/2021 11:37,0,100,743,1,24/01/2021 11:37,R_2OIOGK2ZFW66he0,anonymous,EN,4,4,6,6,7,7,5,5,6,3,6,6,6,2,6,5,6,6,2,2,6,6,6,1,1,1,1,1,1,1,1,2,2,2,4,48,7,1,5
+24/01/2021 11:41,24/01/2021 11:48,0,100,420,1,24/01/2021 11:48,R_1LNCOpNyJNeM7Vw,anonymous,EN,4,4,7,7,6,5,6,7,6,6,6,3,6,5,6,6,5,6,3,3,5,5,5,1,1,1,1,1,1,1,2,2,2,2,2,122,8,1,6
+24/01/2021 11:36,24/01/2021 11:52,0,100,950,1,24/01/2021 11:52,R_eE9oKpG8BHoJRzH,anonymous,EN,4,4,7,5,7,5,5,7,7,5,7,7,5,2,5,6,6,5,1,2,4,3,6,1,1,1,1,1,1,2,2,2,2,1,4,9,7,1,6
+24/01/2021 11:57,24/01/2021 12:05,0,100,448,1,24/01/2021 12:05,R_rdqAcDlpq9IVSQF,anonymous,EN,4,2,5,5,6,2,5,6,5,2,6,3,6,2,3,2,2,3,2,3,5,5,4,1,1,1,2,2,2,2,2,2,2,1,3,65,7,1,6
+24/01/2021 11:50,24/01/2021 12:05,0,100,914,1,24/01/2021 12:05,R_3RxYzW1uOwZfUoz,anonymous,EN,4,2,6,3,6,4,6,3,5,3,6,5,6,6,4,5,4,5,3,3,4,3,3,2,2,1,1,2,1,1,2,1,2,2,3,31,5,2,6
+24/01/2021 12:11,24/01/2021 12:27,0,100,954,1,24/01/2021 12:27,R_2TSPLvIHQOimzeQ,anonymous,EN,4,4,5,3,7,5,5,7,7,5,7,5,7,5,3,6,4,5,2,3,7,6,4,1,1,1,1,2,2,2,2,2,2,2,3,65,7,1,3
+24/01/2021 12:30,24/01/2021 12:40,0,100,593,1,24/01/2021 12:40,R_p5mcJMeZ6IxQL7j,anonymous,EN,4,2,5,5,7,6,6,7,4,6,3,6,7,4,7,5,6,6,6,4,6,6,6,1,1,1,1,2,1,2,2,2,2,1,3,65,7,2,6
+24/01/2021 12:36,24/01/2021 12:52,0,100,947,1,24/01/2021 12:52,R_3G7faNuwcAfWLGP,anonymous,EN,4,2,6,6,7,7,6,4,6,6,6,6,5,6,6,6,5,6,2,2,6,3,5,1,1,1,2,1,1,2,2,2,2,1,3,9,7,1,6
+24/01/2021 11:13,24/01/2021 14:08,0,100,10463,1,24/01/2021 14:08,R_25yVRVsQEg79Xsx,anonymous,EN,4,2,6,5,7,3,6,6,6,5,6,5,6,4,3,4,5,4,4,3,4,5,5,1,1,1,1,1,1,1,1,2,2,2,2,101,7,1,6
+24/01/2021 15:38,24/01/2021 15:50,0,100,759,1,24/01/2021 15:50,R_32XwmCpCR57YeKD,anonymous,EN,4,2,7,2,6,6,7,2,7,1,6,6,6,6,6,6,0,7,6,6,7,7,7,1,1,1,1,1,1,1,1,2,2,1,4,9,7,1,6
+24/01/2021 16:04,24/01/2021 16:18,0,100,844,1,24/01/2021 16:18,R_2TAyD0ZrMpf0iUw,anonymous,EN,4,2,7,5,6,5,6,5,6,3,6,7,6,3,2,2,4,4,2,6,6,5,5,1,1,1,1,1,1,1,2,2,2,1,4,9,7,1,6
+24/01/2021 16:25,24/01/2021 16:36,0,100,662,1,24/01/2021 16:36,R_2WwBYmgCllb8PIu,anonymous,EN,4,2,5,4,3,5,2,6,6,4,6,2,6,2,2,2,2,4,5,4,2,4,4,1,1,1,2,2,2,2,2,2,2,1,5,9,5,1,6
+24/01/2021 16:40,24/01/2021 16:46,0,100,402,1,24/01/2021 16:46,R_9AD79xZRxauFPax,anonymous,EN,4,4,7,7,7,3,6,4,5,6,6,7,5,7,7,7,5,7,6,7,7,7,5,1,1,2,2,2,2,2,2,2,2,1,3,9,6,1,6
+24/01/2021 17:53,24/01/2021 18:03,0,100,606,1,24/01/2021 18:03,R_27JawqXWS6d6zPP,anonymous,EN,4,4,6,2,6,2,7,5,7,2,6,7,2,7,2,5,5,5,2,3,6,5,5,1,1,1,1,1,1,1,2,2,2,2,3,9,8,1,6
+24/01/2021 18:05,24/01/2021 18:38,0,100,1985,1,24/01/2021 18:38,R_29nsif9Qz3ZMfqw,anonymous,EN,4,2,7,5,7,5,6,6,7,6,6,7,6,1,7,7,5,6,3,4,6,3,5,1,1,1,1,1,1,2,2,2,2,1,3,31,6,1,5
+24/01/2021 20:45,24/01/2021 20:59,0,100,830,1,24/01/2021 20:59,R_r0Hhxp3ggxsDBTz,anonymous,EN,4,4,6,6,6,6,6,6,7,5,7,5,7,2,6,7,6,6,5,2,6,6,5,1,1,1,1,1,2,2,2,2,2,2,3,9,8,1,6
+24/01/2021 8:15,25/01/2021 0:55,0,100,59999,1,25/01/2021 0:55,R_OOPP223izCt2Kch,anonymous,EN,4,4,6,5,7,4,7,2,7,4,7,5,3,7,6,7,5,5,4,5,5,3,6,1,1,1,2,2,2,2,2,2,2,1,2,65,7,4,5
+25/01/2021 1:07,25/01/2021 1:14,0,100,441,1,25/01/2021 1:14,R_1P02m1coir9T5yF,anonymous,EN,4,4,6,7,6,7,7,7,6,7,6,7,6,6,7,7,6,7,6,7,7,7,6,1,1,2,2,2,2,2,2,2,2,2,3,9,7,1,6
+25/01/2021 2:03,25/01/2021 2:40,0,100,2234,1,25/01/2021 2:40,R_31gFRHd0gLDLqwF,anonymous,EN,4,4,6,6,6,6,7,7,6,7,5,6,5,5,7,7,4,7,2,2,6,4,6,1,1,1,1,1,1,1,1,2,2,2,2,122,8,1,5
+25/01/2021 2:36,25/01/2021 2:42,0,100,357,1,25/01/2021 2:42,R_3R1HnSJD6ovGzBC,anonymous,EN,4,2,6,6,2,2,6,7,7,6,7,7,4,5,6,6,6,7,5,3,3,4,3,1,1,1,1,1,1,1,2,2,2,1,3,9,6,1,5
+25/01/2021 2:55,25/01/2021 2:59,0,100,259,1,25/01/2021 2:59,R_SDamuyr2mOowqKB,anonymous,EN,4,4,4,6,2,2,4,6,7,1,6,3,6,6,5,5,5,6,2,6,6,6,5,2,1,1,1,2,1,1,2,2,1,2,2,65,7,4,1
+25/01/2021 2:59,25/01/2021 3:10,0,100,672,1,25/01/2021 3:10,R_ymYRrWLYtty4TsJ,anonymous,EN,4,4,6,5,6,6,6,7,5,7,6,6,7,5,1,5,4,4,5,3,2,1,3,1,1,1,1,1,1,1,1,2,2,1,2,65,4,4,1
+25/01/2021 3:25,25/01/2021 3:32,0,100,404,1,25/01/2021 3:32,R_A0Qfyatsbsf1nwJ,anonymous,EN,4,4,6,6,6,6,3,7,6,5,7,4,6,6,5,6,6,6,6,3,5,5,5,2,2,2,2,2,2,2,2,2,2,1,3,9,7,1,6
+25/01/2021 3:33,25/01/2021 3:39,0,100,372,1,25/01/2021 3:39,R_1gSd9k5WX2pEVN0,anonymous,EN,4,4,6,4,5,4,6,5,7,5,6,4,7,1,4,5,4,4,3,4,0,4,3,1,1,1,1,1,1,2,,,2,1,4,9,7,1,4
+25/01/2021 2:04,25/01/2021 4:15,0,100,7879,1,25/01/2021 4:15,R_2VP8qxuPFpebWUr,anonymous,EN,4,2,5,5,7,6,7,6,7,6,5,7,5,5,7,6,6,7,6,4,6,7,6,1,1,1,1,1,1,1,1,1,2,1,4,9,7,1,5
+25/01/2021 4:14,25/01/2021 4:22,0,100,458,1,25/01/2021 4:22,R_2sdzbzcYq1eiqQI,anonymous,EN,4,5,5,7,6,4,6,3,5,6,3,6,7,3,6,6,3,3,5,6,6,7,3,1,1,1,2,2,2,2,2,2,2,2,3,65,8,2,5
+25/01/2021 4:21,25/01/2021 4:30,0,100,537,1,25/01/2021 4:30,R_1rjNuEMp7xRHXRr,anonymous,EN,4,4,6,2,7,1,7,6,7,1,6,5,7,1,1,3,0,5,5,4,5,0,5,1,1,1,1,1,2,2,2,2,2,1,3,82,7,1,5
+25/01/2021 4:32,25/01/2021 4:39,0,100,412,1,25/01/2021 4:39,R_DoEn6UMNbbWJMzv,anonymous,EN,4,5,6,3,6,5,6,7,6,6,7,6,7,4,6,6,5,6,2,6,5,5,5,1,1,1,1,2,2,2,2,2,2,2,2,65,6,4,1
+25/01/2021 4:29,25/01/2021 4:40,0,100,640,1,25/01/2021 4:40,R_2DZZpgQUjjS0M8O,anonymous,EN,4,5,6,5,7,4,6,6,6,6,6,6,5,6,6,5,6,6,6,6,6,6,5,1,1,1,1,2,2,2,2,2,2,1,3,65,8,1,4
+25/01/2021 5:19,25/01/2021 5:45,0,100,1505,1,25/01/2021 5:45,R_rjykS9slmww9g65,anonymous,EN,4,4,6,6,3,6,3,5,5,6,7,5,2,7,2,5,4,6,0,3,2,0,5,1,1,1,1,1,1,1,2,2,2,1,6,65,7,5,3
+25/01/2021 4:29,25/01/2021 12:54,0,100,30287,1,25/01/2021 12:54,R_2YfTNJ1bZqVMywl,anonymous,EN,4,2,6,3,6,2,6,3,6,3,6,2,6,5,4,3,3,4,2,2,2,6,6,1,1,1,1,1,2,2,1,1,2,1,6,9,7,5,3
+25/01/2021 14:07,25/01/2021 14:26,0,100,1103,1,25/01/2021 14:26,R_1rvTaIBDoJ4lil6,anonymous,EN,4,4,7,7,6,2,7,6,4,6,4,7,7,4,7,7,6,5,5,5,6,4,5,1,1,1,1,1,1,1,2,2,2,1,3,9,6,1,6
+25/01/2021 13:59,25/01/2021 14:41,0,100,2499,1,25/01/2021 14:57,R_BqPG5mY72mFpS6t,anonymous,EN,4,5,6,6,7,3,7,7,7,1,7,3,7,6,6,5,0,5,3,3,6,7,3,1,1,1,1,1,1,2,2,2,2,1,3,65,7,1,4
+25/01/2021 16:37,25/01/2021 16:47,0,100,629,1,25/01/2021 16:47,R_331OAx7Y03NtEUT,anonymous,EN,4,5,6,6,5,6,6,6,6,6,5,6,4,4,7,6,6,6,3,6,7,7,5,2,2,2,2,2,2,2,2,2,2,1,3,9,8,1,6
+25/01/2021 17:43,25/01/2021 18:05,0,100,1349,1,25/01/2021 18:05,R_2uweobnHrQfxxgz,anonymous,EN,4,5,5,6,5,2,6,2,6,2,6,5,6,6,6,5,4,5,5,6,6,6,4,2,2,2,2,2,2,2,2,2,2,2,2,9,8,1,6
+25/01/2021 20:07,25/01/2021 20:18,0,100,617,1,25/01/2021 20:18,R_2wpBky4Kg5Udl28,anonymous,EN,4,4,5,5,7,6,6,7,6,6,6,6,7,6,4,6,0,0,2,2,0,0,0,1,1,1,1,2,1,1,2,2,2,2,3,187,7,3,6
+25/01/2021 21:12,25/01/2021 21:21,0,100,540,1,25/01/2021 21:21,R_1jxPrjCq5qK4Ewv,anonymous,EN,4,4,6,6,6,6,7,5,6,5,6,7,6,7,4,5,6,6,4,6,4,3,0,1,1,1,2,2,2,2,2,2,2,1,3,9,6,1,5
+26/01/2021 4:24,26/01/2021 4:38,0,100,854,1,26/01/2021 4:38,R_1jO0r09LXH01m9j,anonymous,EN,4,2,6,6,6,3,7,2,6,2,2,6,6,2,3,5,2,6,0,2,5,7,5,1,1,2,2,2,2,2,2,2,2,1,4,65,8,1,6
+26/01/2021 8:15,26/01/2021 8:20,0,100,310,1,26/01/2021 8:20,R_26rK3M2tYufNHj3,anonymous,EN,4,2,5,4,6,2,5,5,6,5,6,6,7,1,6,5,4,5,3,2,2,6,5,2,2,2,2,2,2,2,2,2,2,1,3,65,7,1,6
+26/01/2021 9:18,26/01/2021 9:30,0,100,734,1,26/01/2021 9:30,R_3p9ZrC8Ye1V4rFS,anonymous,EN,4,2,7,7,7,7,7,7,7,7,7,7,7,3,6,7,0,6,7,6,6,0,6,1,1,1,2,2,2,2,2,2,2,1,3,184,6,1,6
+26/01/2021 12:37,26/01/2021 12:46,0,100,559,1,26/01/2021 12:46,R_2R3oWmpe5DNGqmh,anonymous,EN,4,4,7,5,6,6,5,6,5,6,6,6,7,2,5,6,5,6,4,3,6,3,4,1,1,1,1,1,1,2,2,2,2,2,3,65,6,1,6
+26/01/2021 15:55,26/01/2021 16:08,0,100,735,1,26/01/2021 16:08,R_3Jh0qsRwAWDsdd9,anonymous,EN,4,5,6,6,6,6,6,4,6,4,6,6,6,6,6,4,4,6,6,6,6,6,4,1,1,1,1,1,1,2,2,2,2,1,5,9,8,1,6
+26/01/2021 22:22,26/01/2021 22:34,0,100,730,1,26/01/2021 22:34,R_1gFV0AURiqjSKfW,anonymous,EN,4,2,6,5,6,6,5,6,4,6,6,6,6,2,6,7,6,7,5,5,6,5,5,1,1,1,1,2,2,2,2,2,2,1,5,9,6,1,6
+26/01/2021 22:33,26/01/2021 22:39,0,100,348,1,26/01/2021 22:39,R_3M3yBqMFxYmkeuT,anonymous,EN,4,2,6,5,5,4,5,6,7,2,6,5,6,6,6,6,4,5,3,3,4,5,6,1,1,1,1,1,1,1,2,2,2,2,4,9,6,1,6
+26/01/2021 23:56,27/01/2021 0:04,0,100,509,1,27/01/2021 0:04,R_1PSDXEOaYg9sOIn,anonymous,EN,4,4,7,7,6,5,5,6,7,5,6,7,4,6,5,6,7,5,2,6,6,7,6,1,1,1,1,2,2,2,2,2,2,2,2,65,6,2,3
+27/01/2021 3:52,27/01/2021 4:04,0,100,721,1,27/01/2021 4:04,R_2y8ZLNQGlOt4RSY,anonymous,EN,4,4,5,6,6,2,6,6,6,2,6,5,6,2,6,5,4,5,4,3,4,5,4,1,1,2,2,2,2,2,2,2,2,1,3,9,8,1,6
+27/01/2021 4:30,27/01/2021 4:40,0,100,564,1,27/01/2021 4:40,R_2dYIKMmXzm1nVIC,anonymous,EN,4,4,3,5,6,5,6,6,7,6,6,7,7,6,6,7,6,6,3,5,5,4,6,1,1,1,1,1,1,2,1,2,2,1,4,9,7,1,6
+27/01/2021 12:07,27/01/2021 12:20,0,100,793,1,27/01/2021 12:20,R_1eVmMR3PEb6oHUq,anonymous,EN,4,4,7,7,5,7,7,7,6,7,6,7,5,3,6,7,4,6,3,3,5,4,5,2,2,2,1,1,1,2,2,2,2,2,3,123,7,1,6
+28/01/2021 1:50,28/01/2021 2:02,0,100,773,1,28/01/2021 2:02,R_1Io5p2nBAAEZd9k,anonymous,EN,4,2,4,4,6,4,6,5,6,5,6,3,6,2,2,3,4,4,3,5,5,4,5,1,1,1,1,1,1,1,2,2,2,2,3,9,7,1,5
+28/01/2021 12:58,28/01/2021 13:10,0,100,694,1,28/01/2021 13:10,R_1i3TTuDUJmmoGIq,anonymous,EN,4,5,6,4,2,7,2,7,2,7,4,7,7,2,6,7,6,6,3,4,7,6,5,1,1,2,2,2,2,2,2,2,2,1,2,122,6,2,6
+29/01/2021 11:43,29/01/2021 11:55,0,100,706,1,29/01/2021 11:55,R_323KALGHMxZGHCJ,anonymous,EN,4,4,6,6,6,2,6,6,6,6,2,7,7,1,7,6,4,6,7,4,6,6,6,1,1,1,1,2,2,2,2,2,2,1,3,65,7,1,6
+29/01/2021 12:31,29/01/2021 12:40,0,100,520,1,29/01/2021 12:40,R_pA8OBhvCImc5wBz,anonymous,EN,4,5,7,5,7,4,7,7,7,7,6,4,6,5,3,6,5,5,2,1,0,6,5,1,1,1,1,1,1,1,1,1,1,2,3,9,7,1,3
+23/01/2021 11:21,23/01/2021 11:33,0,39,724,0,30/01/2021 11:33,R_2BzYLBfjoTtznlH,anonymous,EN,4,5,7,7,4,4,6,6,7,4,4,6,4,3,4,4,3,6,4,2,7,7,2,,,,,,,,,,,,,,,,
+23/01/2021 11:38,23/01/2021 11:40,0,18,100,0,30/01/2021 11:40,R_2SoB3vhL6AG6xct,anonymous,EN,4,2,5,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+30/01/2021 12:57,30/01/2021 13:09,0,100,728,1,30/01/2021 13:09,R_3e2zQ9sZzAMhQ99,anonymous,EN,4,2,5,4,6,5,7,4,6,2,6,6,7,2,5,5,0,5,4,5,4,3,5,1,1,1,1,1,1,1,2,2,2,2,3,65,7,1,6
+23/01/2021 15:45,23/01/2021 15:46,0,7,33,0,30/01/2021 15:46,R_2PyVpaQ0jNETwdg,anonymous,EN,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+23/01/2021 21:14,23/01/2021 21:14,0,14,26,0,30/01/2021 21:14,R_21bMo0k2DyFRtQK,anonymous,EN,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+24/01/2021 0:55,24/01/2021 0:56,0,4,37,0,31/01/2021 0:56,R_vctJu7zSVA0K50d,anonymous,EN,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+24/01/2021 2:22,24/01/2021 2:24,0,25,123,0,31/01/2021 2:24,R_dosEne4D9YSfMLD,anonymous,EN,4,2,6,7,5,4,5,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+24/01/2021 2:20,24/01/2021 2:24,0,39,268,0,31/01/2021 2:24,R_1LdlbICulEIpvQ4,anonymous,EN,4,4,7,4,7,5,6,6,6,4,6,6,5,7,6,6,5,7,2,3,4,4,6,,,,,,,,,,,,,,,,
+31/01/2021 2:18,31/01/2021 2:27,0,100,505,1,31/01/2021 2:27,R_OQ2GrxXmcCKWiEF,anonymous,EN,4,4,7,7,6,4,6,6,7,4,7,5,6,3,6,6,3,4,4,5,4,5,3,1,1,1,2,2,2,2,2,2,2,1,2,65,6,1,3
+24/01/2021 6:25,24/01/2021 6:27,0,14,100,0,31/01/2021 6:27,R_2rw4FM0ylTCCcUx,anonymous,EN,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+24/01/2021 13:57,24/01/2021 13:57,0,7,27,0,31/01/2021 13:57,R_p5evTwQTYo2HwYx,anonymous,EN,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+24/01/2021 14:27,24/01/2021 14:31,0,29,252,0,31/01/2021 14:31,R_2P4HUT5anQSWk86,anonymous,EN,4,2,4,3,7,6,6,7,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+24/01/2021 15:09,24/01/2021 15:09,0,7,21,0,31/01/2021 15:09,R_ZgGzdwQJpf9phLz,anonymous,EN,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+24/01/2021 15:10,24/01/2021 15:11,0,4,63,0,31/01/2021 15:11,R_88MyQwqwgZCc7VD,anonymous,EN,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+24/01/2021 4:54,24/01/2021 19:45,0,39,53431,0,31/01/2021 19:45,R_1H0qfzlcB8QNEhu,anonymous,EN,4,4,6,5,6,6,6,7,6,7,4,7,5,6,5,6,4,6,4,4,3,4,5,,,,,,,,,,,,,,,,
+1/02/2021 0:36,1/02/2021 0:46,0,100,583,1,1/02/2021 0:46,R_10B1XrQAA16C0Ur,anonymous,EN,4,4,6,3,4,5,5,6,4,6,2,6,7,2,6,5,4,6,7,4,6,2,5,1,1,2,2,2,2,1,2,2,2,1,4,9,7,1,4
+25/01/2021 1:06,25/01/2021 1:11,0,39,298,0,1/02/2021 1:11,R_2qERiYoVF6ImtQa,anonymous,EN,4,4,5,4,6,6,6,6,5,6,6,3,7,3,6,6,4,6,4,3,7,5,5,,,,,,,,,,,,,,,,
+25/01/2021 1:20,25/01/2021 1:20,0,14,26,0,1/02/2021 1:20,R_25L7gBwVzvL5X5L,anonymous,EN,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+25/01/2021 7:19,25/01/2021 7:26,0,14,419,0,1/02/2021 7:26,R_1F2gki46N6EDxoz,anonymous,EN,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+25/01/2021 11:12,25/01/2021 11:15,0,14,161,0,1/02/2021 11:15,R_3OjnlcjbFcyC6zq,anonymous,EN,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+25/01/2021 16:34,25/01/2021 16:34,0,14,23,0,1/02/2021 16:34,R_1d6vKkpPpumw80P,anonymous,EN,4,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+25/01/2021 23:11,25/01/2021 23:15,0,14,243,0,1/02/2021 23:15,R_28Otx62JwXVqo1J,anonymous,EN,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2/02/2021 1:45,2/02/2021 1:53,0,100,447,1,2/02/2021 1:53,R_pgzLBhv2IYEnfgd,anonymous,EN,4,4,5,2,7,2,3,6,6,1,6,5,5,7,5,5,3,7,4,2,5,7,5,1,1,1,1,2,2,2,2,2,2,1,2,65,6,4,1
+2/02/2021 1:46,2/02/2021 1:53,0,100,410,1,2/02/2021 1:53,R_3NUt0foVURbcUfX,anonymous,EN,4,5,5,6,6,6,5,6,6,6,6,6,5,6,5,4,5,6,2,3,4,0,5,1,1,1,1,1,1,2,2,2,2,2,2,163,7,1,3
+2/02/2021 1:48,2/02/2021 1:57,0,100,564,1,2/02/2021 1:57,R_a986r0Kq3xkhr2N,anonymous,EN,4,4,6,6,7,4,7,6,7,2,6,4,6,6,6,6,6,6,6,5,2,4,6,2,2,1,1,1,2,1,2,1,2,1,3,9,7,1,6
+2/02/2021 1:59,2/02/2021 2:09,0,100,597,1,2/02/2021 2:09,R_T1JgTzhfsIXUhlD,anonymous,EN,4,2,7,5,7,5,6,5,6,5,6,5,4,5,6,5,5,5,3,3,5,4,5,1,1,1,1,1,1,1,2,2,2,2,3,9,6,1,6
+2/02/2021 1:58,2/02/2021 2:11,0,100,749,1,2/02/2021 2:11,R_3WoQIkIkAQKAuIh,anonymous,EN,4,2,6,5,7,3,5,3,6,2,6,6,6,6,2,5,4,5,4,3,3,2,4,1,1,1,1,1,2,2,2,2,2,2,3,9,7,1,4
+2/02/2021 2:09,2/02/2021 2:16,0,100,429,1,2/02/2021 2:16,R_32R5WhKXGFY3lLX,anonymous,EN,4,5,6,4,6,6,3,7,5,4,7,4,6,4,5,5,5,5,4,2,7,6,6,1,1,1,1,1,1,1,1,1,2,2,2,65,7,4,5
+2/02/2021 2:23,2/02/2021 2:31,0,100,481,1,2/02/2021 2:31,R_32ONzXsjGDSWajf,anonymous,EN,4,4,6,6,6,4,6,2,6,2,4,6,6,6,6,6,6,5,4,4,5,5,5,1,1,1,1,1,1,1,1,1,2,1,2,65,7,4,2
+2/02/2021 2:36,2/02/2021 2:50,0,100,855,1,2/02/2021 2:50,R_2CZYVClCgtBRI7n,anonymous,EN,4,2,6,5,4,4,6,5,6,5,7,3,4,4,3,6,3,5,5,4,4,3,5,1,1,1,1,1,1,2,2,2,2,1,2,9,6,1,6
+2/02/2021 3:01,2/02/2021 3:12,0,100,652,1,2/02/2021 3:12,R_3sucUtfxgDVvNr4,anonymous,EN,4,4,7,6,7,7,7,7,7,7,6,6,5,5,6,7,0,6,4,3,4,0,5,1,1,1,2,2,2,2,2,2,2,2,3,65,6,2,6
+2/02/2021 3:05,2/02/2021 3:17,0,100,679,1,2/02/2021 3:17,R_Om6vcu44gVBRXJn,anonymous,EN,4,4,7,5,7,7,5,5,5,3,5,7,3,5,6,6,6,7,2,4,7,5,6,1,1,1,1,1,2,2,2,2,2,2,3,9,7,1,1
+2/02/2021 3:11,2/02/2021 3:19,0,100,465,1,2/02/2021 3:19,R_DqJGqn9nk6d0qit,anonymous,EN,4,4,6,6,3,3,7,5,7,6,6,6,6,3,5,7,5,6,5,1,4,4,5,1,1,1,1,1,1,1,2,2,2,2,3,9,6,1,5
+2/02/2021 3:26,2/02/2021 3:32,0,100,398,1,2/02/2021 3:32,R_1hXqNj5Q8C6nbYU,anonymous,EN,4,5,6,6,6,5,5,5,3,5,5,6,5,5,2,6,1,5,7,7,7,7,6,1,1,1,1,1,1,2,2,2,2,1,3,9,6,1,6
+2/02/2021 3:14,2/02/2021 3:35,0,100,1228,1,2/02/2021 3:35,R_1mqkWuR51dpwRSr,anonymous,EN,4,4,6,5,7,5,5,6,5,6,4,5,7,3,3,0,0,4,1,3,4,5,3,1,1,1,1,1,1,2,2,2,2,1,4,123,8,2,5
+2/02/2021 3:37,2/02/2021 3:44,0,100,410,1,2/02/2021 3:44,R_ekstlNwuMar3Lm9,anonymous,EN,4,4,7,3,7,5,7,6,7,5,7,6,6,7,7,6,7,7,6,6,6,6,6,1,1,2,2,2,2,2,2,2,2,2,3,9,7,1,6
+2/02/2021 3:35,2/02/2021 3:47,0,100,686,1,2/02/2021 3:47,R_ReoKfDU3bX5w6FX,anonymous,EN,4,2,5,5,7,4,7,5,7,2,6,6,4,3,2,4,3,4,1,5,2,5,3,2,2,2,2,2,2,2,2,2,2,2,3,9,7,1,4
+2/02/2021 3:53,2/02/2021 4:01,0,100,505,1,2/02/2021 4:01,R_2f357P4VsfTqvE5,anonymous,EN,4,4,6,6,7,6,5,7,7,3,6,5,6,7,3,5,5,5,3,3,5,4,4,1,1,1,1,1,1,1,1,2,2,2,3,9,7,1,6
+2/02/2021 3:54,2/02/2021 4:08,0,100,872,1,2/02/2021 4:08,R_Rxy035QlIaDqjlL,anonymous,EN,4,2,5,3,6,4,5,5,5,3,6,4,6,5,2,3,5,4,3,4,2,2,5,1,1,1,1,1,2,2,2,2,2,1,3,9,6,2,3
+2/02/2021 4:35,2/02/2021 4:39,0,100,254,1,2/02/2021 4:39,R_293OQ7xbyFrcJn3,anonymous,EN,4,2,5,1,6,1,7,1,7,1,7,1,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,2,9,7,1,6
+2/02/2021 4:39,2/02/2021 4:56,0,100,1037,1,2/02/2021 4:56,R_3oA8aim3YbRncxE,anonymous,EN,4,4,4,6,7,5,4,7,6,5,4,7,6,6,5,5,5,6,3,3,5,5,6,1,1,1,1,1,2,2,2,2,2,1,3,65,7,1,6
+2/02/2021 5:06,2/02/2021 5:17,0,100,653,1,2/02/2021 5:17,R_22StU2GPVf4oiAp,anonymous,EN,4,4,6,2,7,5,7,5,6,2,7,5,6,3,5,5,4,5,5,3,4,4,3,1,1,1,1,1,1,2,2,2,2,1,6,9,7,1,4
+2/02/2021 6:06,2/02/2021 6:14,0,100,445,1,2/02/2021 6:14,R_Oqdy8B8k5uSGj2p,anonymous,EN,4,4,7,5,6,6,6,6,6,5,5,7,6,2,5,6,4,6,1,2,6,5,5,1,1,1,1,1,2,2,2,2,2,1,3,9,7,1,4
+26/01/2021 7:08,26/01/2021 7:08,0,4,14,0,2/02/2021 7:08,R_by1TChd6BmagDtL,anonymous,EN,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2/02/2021 7:22,2/02/2021 7:33,0,100,636,1,2/02/2021 7:33,R_2RRs09l37eyTioT,anonymous,EN,4,4,6,6,6,2,6,2,6,2,7,5,5,5,4,4,4,4,2,2,4,5,4,1,2,1,2,2,2,2,2,2,2,1,2,9,4,1,5
+2/02/2021 8:34,2/02/2021 8:45,0,100,684,1,2/02/2021 8:45,R_3ETr6RT7Rr1iEzk,anonymous,EN,4,4,6,7,6,6,6,7,7,6,5,6,7,6,7,7,7,7,7,7,7,7,6,1,1,2,2,2,2,2,2,2,2,2,2,65,6,4,1
+26/01/2021 9:47,26/01/2021 9:47,0,4,9,0,2/02/2021 9:47,R_1SlUaTo8CTUN7QB,anonymous,EN,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+26/01/2021 13:23,26/01/2021 13:23,0,4,7,0,2/02/2021 13:23,R_uypMOQzHeDr2nq9,anonymous,EN,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2/02/2021 14:59,2/02/2021 15:04,0,100,241,1,2/02/2021 15:04,R_28zJZawenabOMwn,anonymous,EN,4,2,4,3,5,4,5,6,4,3,5,6,3,5,5,6,5,5,3,4,5,6,5,1,2,2,2,1,2,1,2,2,2,1,2,65,7,4,1
+2/02/2021 16:19,2/02/2021 16:31,0,100,770,1,2/02/2021 16:31,R_3MnREGUVrYYP9nS,anonymous,EN,4,5,7,7,7,4,7,7,7,7,5,7,7,4,4,7,3,5,4,6,0,0,4,1,2,1,1,2,2,2,2,2,2,2,3,65,8,1,6
+2/02/2021 17:42,2/02/2021 18:02,0,100,1181,1,2/02/2021 18:02,R_wZEQB2P1jSOTV2F,anonymous,EN,4,4,6,6,5,7,5,7,6,5,3,6,5,6,7,7,5,6,3,3,7,3,5,1,1,2,2,2,2,2,2,2,2,1,5,9,4,1,3
+3/02/2021 0:04,3/02/2021 0:23,0,100,1086,1,3/02/2021 0:23,R_3p3ZAGU2iu5JPwA,anonymous,EN,4,4,5,4,7,2,6,3,6,3,5,3,7,2,1,5,1,3,2,1,4,2,2,1,1,2,2,2,2,2,2,2,2,1,3,65,6,1,2
+27/01/2021 0:34,27/01/2021 0:34,0,4,21,0,3/02/2021 0:34,R_cZKWxqdzC7ZMiYN,anonymous,EN,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3/02/2021 0:48,3/02/2021 1:02,0,100,798,1,3/02/2021 1:02,R_1QovwsRzWUuagYh,anonymous,EN,4,4,7,5,7,6,6,4,7,3,6,5,5,5,6,7,6,5,2,3,4,5,5,1,1,1,1,1,1,2,2,2,2,1,3,9,6,1,6
+3/02/2021 3:33,3/02/2021 3:41,0,100,484,1,3/02/2021 3:41,R_30pl8VfZHEvVgZA,anonymous,EN,4,4,4,2,5,2,2,7,7,7,6,7,4,6,7,7,4,7,5,6,6,4,4,1,1,1,1,1,1,1,1,1,2,1,2,31,6,1,6
+3/02/2021 3:37,3/02/2021 3:49,0,100,728,1,3/02/2021 3:49,R_2vZDc1V35KlbtHe,anonymous,EN,4,4,6,3,6,6,6,7,7,2,7,1,7,7,6,6,6,5,3,7,6,6,6,2,2,2,2,2,2,2,2,2,2,1,3,9,6,1,6
+3/02/2021 11:50,3/02/2021 12:01,0,100,671,1,3/02/2021 12:01,R_12gVHXaP0wYFy1m,anonymous,EN,4,4,5,5,5,6,3,6,6,4,3,6,6,4,6,6,5,6,4,5,5,4,5,1,1,1,1,2,2,2,2,2,2,1,3,65,8,1,6
+3/02/2021 12:16,3/02/2021 12:55,0,100,2327,1,3/02/2021 12:55,R_2y14DDqVFTeuJp0,anonymous,EN,4,4,5,5,7,5,5,7,5,6,6,6,6,6,6,7,6,6,4,3,6,4,5,2,1,1,1,2,2,2,2,2,2,2,3,9,6,1,6
+3/02/2021 17:22,3/02/2021 17:36,0,100,893,1,3/02/2021 17:36,R_3M4Hzk9mHmAVyFw,anonymous,EN,4,4,5,6,7,2,7,1,7,2,7,7,7,7,7,7,7,5,1,5,7,5,5,1,1,1,1,1,1,1,1,1,1,1,3,9,6,1,6
+27/01/2021 22:44,27/01/2021 22:50,0,39,346,0,3/02/2021 22:50,R_2AM6DZbZI4wk1V5,anonymous,EN,4,4,6,6,7,5,6,5,7,5,5,6,6,4,7,6,6,6,3,3,5,4,5,,,,,,,,,,,,,,,,
+4/02/2021 4:17,4/02/2021 4:29,0,100,731,1,4/02/2021 4:29,R_3HplwDAYWc1Ccvp,anonymous,EN,4,2,4,5,4,5,4,5,6,3,4,3,3,2,3,4,3,4,4,3,3,4,4,1,1,1,1,1,1,1,1,2,2,1,4,9,6,1,6
+4/02/2021 10:43,4/02/2021 10:54,0,100,625,1,4/02/2021 10:54,R_3nPmueGGFiJ3IAf,anonymous,EN,4,5,6,6,7,3,3,7,6,5,6,6,6,5,6,7,4,6,2,6,7,6,6,1,1,1,1,1,2,2,2,2,2,1,2,65,7,1,4
+6/02/2021 7:58,6/02/2021 8:09,0,100,681,1,6/02/2021 8:09,R_3LiHsElyVOVb6Ny,anonymous,EN,4,4,5,6,6,7,5,7,7,5,6,6,7,2,5,5,5,5,5,6,6,5,4,1,1,1,1,2,1,1,2,1,2,2,3,185,6,1,5
+7/02/2021 4:17,7/02/2021 4:28,0,100,662,1,7/02/2021 4:28,R_3HzYJN5iBM1Kvb8,anonymous,EN,4,2,6,6,6,6,6,6,7,5,6,6,6,6,6,6,6,6,2,3,5,5,6,1,1,1,1,1,1,1,1,2,2,2,3,9,7,1,6
+7/02/2021 5:27,7/02/2021 5:42,0,100,936,1,7/02/2021 5:42,R_2zU35odOSg1bnqt,anonymous,EN,4,5,4,5,4,4,6,5,6,4,4,6,4,2,6,6,3,6,2,4,6,6,6,2,2,2,2,2,2,2,2,2,2,1,3,9,8,1,5
+3/02/2021 8:10,7/02/2021 7:41,0,100,343861,1,7/02/2021 7:41,R_1PREo9uCkRQyZMj,anonymous,EN,4,4,5,6,7,1,4,6,6,2,6,2,6,6,6,6,6,6,4,4,6,5,6,1,1,1,1,1,2,2,2,2,2,2,2,65,6,4,1
+7/02/2021 11:31,7/02/2021 11:38,0,100,420,1,7/02/2021 11:38,R_3hlw6pBjM78xppo,anonymous,EN,4,4,6,6,7,5,7,5,6,3,4,5,7,1,4,3,1,2,4,6,4,4,3,1,1,1,2,2,2,2,2,2,2,2,4,65,7,1,6
+7/02/2021 12:32,7/02/2021 13:09,0,100,2250,1,7/02/2021 13:09,R_DGYDP8wzWZQztLj,anonymous,EN,4,2,4,7,6,5,6,6,5,6,6,7,6,5,5,6,0,6,6,3,5,6,6,1,1,1,1,1,1,1,1,2,2,2,3,65,7,1,6
+8/02/2021 6:35,8/02/2021 13:58,0,100,26576,1,8/02/2021 13:58,R_2VfHyIULsPdePnn,anonymous,EN,4,4,6,2,6,5,7,3,7,1,7,5,6,6,5,7,4,6,4,5,4,5,3,1,1,1,1,2,2,2,2,2,2,2,2,65,7,4,1
+2/02/2021 1:56,2/02/2021 1:58,0,25,130,0,9/02/2021 1:58,R_1gj52MWj6jKrv22,anonymous,EN,4,4,5,5,7,7,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2/02/2021 2:06,2/02/2021 2:11,0,39,303,0,9/02/2021 2:11,R_1jqRZap2lQjZSvU,anonymous,EN,4,5,6,5,6,5,4,7,6,6,6,4,4,7,6,6,6,6,5,5,6,5,6,,,,,,,,,,,,,,,,
+2/02/2021 2:20,2/02/2021 2:21,0,18,76,0,9/02/2021 2:21,R_31L52ckFyAPsbfl,anonymous,EN,4,5,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2/02/2021 2:42,2/02/2021 2:43,0,7,99,0,9/02/2021 2:44,R_XHZSfUZNHc3OVBT,anonymous,EN,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2/02/2021 2:37,2/02/2021 3:34,0,7,3406,0,9/02/2021 3:34,R_28Mq5J1f0b3UeHT,anonymous,EN,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2/02/2021 4:45,2/02/2021 4:46,0,11,67,0,9/02/2021 4:46,R_3wJvzw5SESJh5o5,anonymous,EN,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2/02/2021 5:28,2/02/2021 5:30,0,7,114,0,9/02/2021 5:30,R_PuGdp2ad3F1KT7z,anonymous,EN,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2/02/2021 11:19,2/02/2021 11:19,0,7,27,0,9/02/2021 11:19,R_0Jtkx3BUtkFzW9z,anonymous,EN,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2/02/2021 13:40,2/02/2021 13:43,0,25,169,0,9/02/2021 13:43,R_25T6Yy43JoWPu6o,anonymous,EN,4,4,2,1,6,2,4,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2/02/2021 16:54,2/02/2021 16:54,0,7,14,0,9/02/2021 16:54,R_2f33WitWBs9VdpX,anonymous,EN,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2/02/2021 16:38,2/02/2021 17:25,0,18,2833,0,9/02/2021 17:25,R_2QyrLZYfqSS9eUv,anonymous,EN,4,2,4,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2/02/2021 18:44,2/02/2021 18:45,0,14,54,0,9/02/2021 18:45,R_2EHuXdIRtfS99K8,anonymous,EN,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2/02/2021 14:38,2/02/2021 20:44,0,4,21986,0,9/02/2021 20:44,R_3lQDromzCoVin2l,anonymous,EN,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3/02/2021 7:36,3/02/2021 7:40,0,29,262,0,10/02/2021 7:40,R_W2vnLxUtZe0B1Dz,anonymous,EN,4,2,6,5,6,2,5,5,6,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3/02/2021 13:36,3/02/2021 13:42,0,39,349,0,10/02/2021 13:42,R_1QszsXvhFiXn59i,anonymous,EN,4,4,6,6,2,2,6,3,7,3,3,3,3,2,5,5,3,3,1,1,0,0,3,,,,,,,,,,,,,,,,
+12/02/2021 6:50,12/02/2021 7:00,0,100,575,1,12/02/2021 7:00,R_3kAj8GRN0nC7LQY,anonymous,EN,4,2,6,4,6,4,4,6,6,2,6,6,6,1,5,6,4,6,4,2,4,4,6,1,1,1,1,1,1,2,2,2,2,1,3,9,6,1,5
+7/02/2021 12:37,7/02/2021 12:44,0,21,468,0,14/02/2021 12:44,R_3e4vxbEFEhBG6VX,anonymous,EN,4,2,6,5,6,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4/02/2021 19:42,7/02/2021 16:37,0,36,248085,0,14/02/2021 16:37,R_1kGLJvP3W0zL3Nx,anonymous,EN,4,4,5,6,6,7,6,5,7,6,7,5,6,4,,,,,,,,,,,,,,,,,,,,,,,,,
+15/02/2021 5:35,15/02/2021 5:58,0,100,1344,1,15/02/2021 5:58,R_3smjVUUPL3onjkx,anonymous,EN,4,4,6,6,5,5,6,6,7,3,6,7,6,6,5,4,3,6,2,3,4,5,5,1,1,1,2,2,2,2,2,2,2,1,3,48,6,1,6
